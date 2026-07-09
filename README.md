@@ -1,7 +1,6 @@
-# Fitnesskan
+# Fitnesskan - AI-Powered Virtual Personal Trainer (Cloud Infrastructure & Backend Data Pipeline)
 
-
-
+An app-based virtual personal trainer platform designed to address public health accessibility and modern fitness tracking challenges by providing cost-effective, real-time virtual guidance.
 
 # Team Member
 -         (ML)  M330DSY1787– ANNISYA FATIHATURRAHMA – UNIVERSITAS RIAU - Active
@@ -11,12 +10,19 @@
 -         (ML)  M150DKX4126– RIAN RAFLI – UNIVERSITAS BINA SARANA INFORMATIKA - Active
 -         (MD)  A261DKX4038 - MUHAMMAD RILLO PAMBUDI - UNIVERSITAS MULAWARMAN -Active
 
-
 # Abstract
 Despite the growing awareness of the importance of physical fitness, many people struggle to achieve their fitness goals due to the lack of access to qualified personal trainers, limited availability of fitness facilities, and busy lifestyles. An app-based virtual personal trainer has the potential to address these challenges by providing personalized workout plans, real-time guidance, and flexibility in terms of time and location, making it a convenient and effective solution.
 
 How to optimize the use of a personal trainer application to achieve consistent and measurable learning outcomes for users from different backgrounds, and what is the impact of using a personal trainer application on user efficiency and effectiveness in terms of cost, time, and quality?
 Virtual personal fitness trainer app is needed to address public health issues and high personal trainer fees. The app provides an affordable and accessible alternative to hiring a personal trainer, allowing users to achieve their fitness goals with consistent and measurable results. Virtual personal fitness trainer apps tackle inactivity and chronic diseases while providing affordable professional guidance. The high cost of hiring personal trainers is a barrier to accessing support.
+
+## My Engineering Focus: Cloud Infrastructure & Backend Data Operations
+As the Lead Cloud Computing Engineer for this system, my contributions were strictly focused on establishing secure backend architectures, database tuning, and configuring cloud pipelines to handle intensive AI data workflows.
+
+## Core Tech Stack & Systems Literacy
+*   **Backend Engineering:** Node.js, Express.js, RESTful API Development.
+*   **Database Management:** Relational Schema Optimization, MySQL, Data Logging Validation.
+*   **Cloud & Systems Infrastructure:** Google Cloud Platform (GCP), Systems Deployment, IAM & Security Policy Control.
 
 # How to replicate our repo
 ### 1. Click Fork in the top-right corner of the page 
