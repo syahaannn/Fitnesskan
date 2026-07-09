@@ -19,6 +19,13 @@ Virtual personal fitness trainer app is needed to address public health issues a
 ## My Engineering Focus: Cloud Infrastructure & Backend Data Operations
 As the Lead Cloud Computing Engineer for this system, my contributions were strictly focused on establishing secure backend architectures, database tuning, and configuring cloud pipelines to handle intensive AI data workflows.
 
+### Key Technical Contributions:
+*   **Database Schema Design & Tuning:** Engineered and structured complex MySQL database models to handle high write-loads containing user analytical profiles, historic workout progress tracking, and structured motion calculation coordinates efficiently.
+*   **Asynchronous Data Workflow:** Built scalable RESTful APIs using Express.js and Node.js to manage seamless, secure data streams between front-end mobile clients, authentication databases, and core application layers.
+*   **Cloud Infrastructure Management:** Provisioned and automated cloud infrastructure resource layouts on Google Cloud Platform (GCP) to sustain high-availability requirements.
+*   **Secure AI Data Ingestion Bridge:** Designed backend integration bridges and asynchronous pipelines to process and stream continuous raw video telemetry data directly to external Machine Learning processing layers without degrading core application request responsiveness.
+*   **Data Security & Boundary Controls:** Implemented end-to-end token validation structures to restrict system resources, manage session security, and guarantee individual profile data privacy.
+
 ## Core Tech Stack & Systems Literacy
 *   **Backend Engineering:** Node.js, Express.js, RESTful API Development.
 *   **Database Management:** Relational Schema Optimization, MySQL, Data Logging Validation.
